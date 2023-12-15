@@ -1,0 +1,3 @@
+[submodule "solutions/refinery"]
+	path = solutions/refinery
+	url = https://github.com/graphs4value/refinery.git
